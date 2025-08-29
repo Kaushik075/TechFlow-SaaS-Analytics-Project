@@ -10,7 +10,7 @@ This project demonstrates advanced SQL techniques on a large-scale SaaS subscrip
 
 ## Project Objective
 
-To analyze SaaS subscription lifecycle, revenue metrics, user engagement, customer segmentation, churn risk, and product performance using complex SQL queries that drive actionable business decisions.
+To analyze SaaS subscription lifecycle, revenue metrics, user engagement, customer segmentation, churn risk, and product performance using complex SQL queries that drive actionable business decisions 
 
 ---
 

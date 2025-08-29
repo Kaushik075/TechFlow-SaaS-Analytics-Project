@@ -113,6 +113,13 @@ users (1) ──── (M) subscriptions (1) ──── (M) subscription_items
 
 Feel free to fork, modify, and submit pull requests. Contact for collaboration or feedback.
 
+
+--- 
+
+## QUERIES
+
+ 
+
 ---
 
 ## License

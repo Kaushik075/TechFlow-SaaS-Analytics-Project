@@ -117,7 +117,10 @@ Feel free to fork, modify, and submit pull requests. Contact for collaboration o
 --- 
 
 ## QUERIES
-
+<img width="1728" height="1580" alt="Image" src="https://github.com/user-attachments/assets/996f5622-66ad-4827-97be-d6ed6bb04b68" />
+<img width="1310" height="1388" alt="Image" src="https://github.com/user-attachments/assets/915f3ab4-250f-46b6-bdba-0255bd0717fd" />
+<img width="2048" height="1340" alt="Image" src="https://github.com/user-attachments/assets/700ccd66-b2ab-4a81-83e1-a61fd3a18d01" />
+<img width="2006" height="1534" alt="Image" src="https://github.com/user-attachments/assets/107f9f32-96c2-46c3-8dce-4051366805a5" />
  
 
 ---

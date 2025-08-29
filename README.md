@@ -117,14 +117,10 @@ Feel free to fork, modify, and submit pull requests. Contact for collaboration o
 --- 
 
 ## QUERIES
-<img width="1666" height="1212" alt="Image" src="https://github.com/user-attachments/assets/02c6b624-4b15-4df3-9903-399490c11594" />
-<img width="1728" height="1580" alt="Image" src="https://github.com/user-attachments/assets/6e2b6e60-e311-4625-81b7-5f61f0a783d0" />
-<img width="1310" height="1388" alt="Image" src="https://github.com/user-attachments/assets/c58ba45f-3c4f-4be8-b98a-672440cde278" />
-<img width="2048" height="1340" alt="Image" src="https://github.com/user-attachments/assets/ef0af334-80f3-404d-b3ad-4706437986dd" />
-<img width="2006" height="1534" alt="Image" src="https://github.com/user-attachments/assets/108bcdb1-b08f-4dbf-b4e2-6c371f846877" />
+<img width="1666" height="1212" alt="Image" src="https://github.com/user-attachments/assets/0973ee6b-05ce-41ff-b95b-7257bf03f090" />
+<img width="1310" height="1388" alt="Image" src="https://github.com/user-attachments/assets/e64f028e-e63e-4055-a211-0710a7a3f273" />
+<img width="2048" height="1340" alt="Image" src="https://github.com/user-attachments/assets/78270fa3-5142-4660-9c0e-345acfd2f690" />
+<img width="2006" height="1534" alt="Image" src="https://github.com/user-attachments/assets/4ecf7cbb-5e24-42e6-b9cf-6ddd04d27294" />
 
----
 
-## License
 
-Open source — free to use and distribute.

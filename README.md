@@ -14,6 +14,13 @@ To analyze SaaS subscription lifecycle, revenue metrics, user engagement, custom
 
 ---
 
+## ANALYSIS 
+
+
+https://ppl-ai-code-interpreter-files.s3.amazonaws.com/web/direct-files/d08343c0f4f9f83f6642b7c6c508af53/7c741f2f-f45f-415d-92d7-eea462e4e0e1/index.html
+
+---
+
 ## Data Sources and Schema
 
 - `users`: Customer demographics and company info  

@@ -123,12 +123,4 @@ Feel free to fork, modify, and submit pull requests. Contact for collaboration o
 
 --- 
 
-## QUERIES
-<img width="1666" height="1212" alt="Image" src="https://github.com/user-attachments/assets/bae62a5e-dd3d-4ccb-ae5d-1d11f4458a00" />
-<img width="2048" height="1340" alt="Image" src="https://github.com/user-attachments/assets/be370903-7147-4636-8800-f98f98d872a8" />
-<img width="2006" height="1534" alt="Image" src="https://github.com/user-attachments/assets/e7b1761e-7821-4377-86e5-6374c55749fa" />
 
-
-
-
-https://ppl-ai-code-interpreter-files.s3.amazonaws.com/web/direct-files/d08343c0f4f9f83f6642b7c6c508af53/7c741f2f-f45f-415d-92d7-eea462e4e0e1/index.html
